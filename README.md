@@ -1,6 +1,6 @@
 # leetcode-with-rust
 
-- 973. K Closest Points to Origin - [question][lc.973.question] / [solution][lc.973.solution]
+- 973 - K Closest Points to Origin - [question][lc.973.question] / [solution][lc.973.solution]
 
 
 [lc.973.question]: https://leetcode.com/problems/k-closest-points-to-origin/
